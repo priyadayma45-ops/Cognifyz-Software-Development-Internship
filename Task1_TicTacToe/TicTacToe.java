@@ -35,7 +35,6 @@ public static boolean isPositionEmpty(char[][] board, int position) {
 
 public static boolean checkWinner(char[][] board, char player) {
 
-    // Rows
     for (int i = 0; i < 3; i++) {
         if (board[i][0] == player &&
             board[i][1] == player &&
@@ -44,7 +43,6 @@ public static boolean checkWinner(char[][] board, char player) {
         }
     }
 
-    // Columns
     for (int j = 0; j < 3; j++) {
         if (board[0][j] == player &&
             board[1][j] == player &&
@@ -53,14 +51,12 @@ public static boolean checkWinner(char[][] board, char player) {
         }
     }
 
-    // Main Diagonal
     if (board[0][0] == player &&
         board[1][1] == player &&
         board[2][2] == player) {
         return true;
     }
 
-    // Other Diagonal
     if (board[0][2] == player &&
         board[1][1] == player &&
         board[2][0] == player) {
