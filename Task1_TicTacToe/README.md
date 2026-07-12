@@ -111,7 +111,7 @@ Player X, enter position (1-9):
 ![Draw](screenshots/game_Draw.jpg)
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Play Again Option
 - Single Player Mode (AI)
@@ -121,7 +121,7 @@ Player X, enter position (1-9):
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
