@@ -1,11 +1,11 @@
-# 🎮 Tic Tac Toe Game
+#  Tic Tac Toe Game
 
 > **A simple, interactive, and fun console-based Tic Tac Toe game built with Java.**
 > Developed as part of the **Cognifyz Technologies Software Development Internship**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a classic **2-player Tic Tac Toe Game** that runs in the Java console.
 
@@ -15,7 +15,7 @@ This project demonstrates the implementation of Java programming fundamentals th
 
 ---
 
-## ✨ Features
+##  Features
 
 ✔️ Interactive Console-Based Gameplay
 
@@ -37,7 +37,7 @@ This project demonstrates the implementation of Java programming fundamentals th
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - VS Code
@@ -45,7 +45,7 @@ This project demonstrates the implementation of Java programming fundamentals th
 
 ---
 
-## 📚 Java Concepts Used
+##  Java Concepts Used
 
 - Methods
 - Loops
@@ -58,7 +58,7 @@ This project demonstrates the implementation of Java programming fundamentals th
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Compile
 
@@ -74,7 +74,7 @@ java TicTacToe
 
 ---
 
-## 🎯 Sample Output
+##  Sample Output
 
 ```
 ==================================
@@ -92,17 +92,23 @@ Player X, enter position (1-9):
 
 ---
 
-## 📂 Project Structure
+##  Screenshots
 
-```
-Task1_TicTacToe
-│── TicTacToe.java
-│── README.md
-└── screenshots
-    ├── game_start.png
-    ├── winner.png
-```
+###  Game Start
 
+![Game Start](Screenshots/game_start.png)
+
+---
+
+###  Winner
+
+![Winner](Screenshots/game_winner!.png)
+
+---
+
+###  Draw
+
+![Draw](Screenshots/game_Draw.jpg)
 ---
 
 ## 🚀 Future Improvements
