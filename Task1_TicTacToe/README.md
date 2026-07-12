@@ -96,19 +96,19 @@ Player X, enter position (1-9):
 
 ###  Game Start
 
-![Game Start](Screenshots/game_start.png)
+![Game Start](screenshots/game_start.png)
 
 ---
 
 ###  Winner
 
-![Winner](Screenshots/game_winner!.png)
+![Winner](screenshots/game_winner!.png)
 
 ---
 
 ###  Draw
 
-![Draw](Screenshots/game_Draw.jpg)
+![Draw](screenshots/game_Draw.jpg)
 ---
 
 ## 🚀 Future Improvements
