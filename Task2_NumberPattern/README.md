@@ -57,42 +57,51 @@ java NumberPattern
 
 ## Project Files
 
-```
+```text
 Task2_NumberPattern
 │── NumberPattern.java
 │── README.md
 └── screenshots
     ├── pattern1.png
-    ├── pattern3.png
-    └── pattern5.png
+    ├── pattern5.png
+    ├── diamond.png
+    └── butterfly.png
 ```
-
 ---
 
 ## Output Preview
 
-### Number Pattern
+### Pattern 1 - Number Triangle
 
 ![Pattern 1](screenshots/pattern1.png)
 
-### Continuous Number Pattern
+---
 
-![Pattern 3](screenshots/pattern3.png)
-
-### Pyramid Pattern
+### Pattern 5 - Pyramid Pattern
 
 ![Pattern 5](screenshots/pattern5.png)
+
+---
+
+### Pattern 6 - Diamond Pattern
+
+![Diamond](screenshots/diamond.png)
+
+---
+
+### Pattern 7 - Butterfly Pattern
+
+![Butterfly](screenshots/butterfly.png)
 
 ---
 
 ## Future Enhancements
 
 - Hollow Star Patterns
-- Diamond Pattern
 - Pascal Triangle
 - Alphabet Patterns
 - Menu-Based Pattern Selection
-
+- Colored Console Output
 ---
 
 ## What I Learned
