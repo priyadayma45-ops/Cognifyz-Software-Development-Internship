@@ -79,7 +79,7 @@ Task3_TaskManager
 
 ##  Output Preview
 
-### ➕ Add Task
+###  Add Task
 
 ![Add Task](screenshots/add_task.png)
 
@@ -135,7 +135,3 @@ B.Tech Computer Science Engineering
 Passionate about Java Development, Problem Solving, and Software Engineering.
 
 ---
-
- Thank you for exploring this project!
-
-If you found it useful, feel free to explore, improve, or share your feedback.
