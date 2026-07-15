@@ -6,13 +6,14 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 
 ---
 
-##  Projects
+#  Projects
 
-###  Task 1 - Tic Tac Toe Game
+##  Task 1 - Tic Tac Toe Game
 
 **Java Console Application**
 
-Features:
+### Features
+
 - Two Player Game (X vs O)
 - 3×3 Game Board
 - Winner Detection
@@ -22,31 +23,50 @@ Features:
 
 ---
 
-###  Task 2 - Number Pattern Generator
+##  Task 2 - Number Pattern Generator
 
 **Java Console Application**
 
-Features:
+### Features
+
 - Multiple Number and Star Patterns
+- Number Triangle
+- Star Triangle
+- Floyd's Triangle
+- Inverted Star Triangle
 - Pyramid Pattern
 - Diamond Pattern
 - Butterfly Pattern
-- Floyd's Triangle
-- Nested Loop Implementation
 
 ---
 
-###  Task 3 - Task Manager System
+##  Task 3 - Task Manager System
 
-**Java CRUD Based Console Application**
+**Java CRUD Console Application**
 
-Features:
+### Features
+
 - Add New Tasks
 - View Task List
 - Update Existing Tasks
 - Delete Tasks
-- Menu Driven System
+- Menu-Driven System
 - ArrayList Based Task Management
+
+---
+
+##  Task 4 - Temperature Converter
+
+**Java Console Application**
+
+### Features
+
+- Celsius to Fahrenheit Conversion
+- Fahrenheit to Celsius Conversion
+- Menu-Driven Interface
+- Supports Decimal Values
+- Accurate Temperature Calculations
+- Exit Option
 
 ---
 
@@ -63,12 +83,14 @@ Features:
 ##  Concepts Practiced
 
 - Object-Oriented Programming
-- Loops and Nested Loops
-- Conditional Statements
 - Methods
-- Arrays and ArrayList
+- Loops & Nested Loops
+- Switch Case
+- Conditional Statements
+- Arrays & ArrayList
 - CRUD Operations
 - User Input Handling
+- Mathematical Calculations
 
 ---
 
@@ -78,6 +100,13 @@ Features:
 
 B.Tech Computer Science Engineering
 
+Passionate about Java Development, Problem Solving, and Software Engineering.
+
 ---
 
- More projects will be added soon...
+##  Upcoming Projects
+
+-  Task 5 – Task Manager with File I/O
+-  Task 6 – Interactive Web Scraping
+
+ More projects will be added soon.
