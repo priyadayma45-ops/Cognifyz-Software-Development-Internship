@@ -100,7 +100,7 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 
 B.Tech Computer Science Engineering
 
-Passionate about Java Development, Problem Solving, and 
+Passionate about Java Development, Problem Solving, and Software Engineering.
 
 ---
 
