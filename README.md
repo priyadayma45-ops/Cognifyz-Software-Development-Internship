@@ -1,18 +1,18 @@
-#  Cognifyz Software Development Internship
+# Cognifyz Software Development Internship
 
 This repository contains all Java projects completed during my **Software Development Internship at Cognifyz Technologies**.
 
-The projects focus on Java programming fundamentals, problem-solving, console-based applications, and implementing logical concepts.
+The projects focus on Java programming fundamentals, problem-solving, console-based applications, file handling, and implementing logical concepts.
 
 ---
 
-#  Projects
+## Projects
 
-##  Task 1 - Tic Tac Toe Game
+### Task 1 - Tic Tac Toe Game
 
 **Java Console Application**
 
-### Features
+#### Features
 
 - Two Player Game (X vs O)
 - 3×3 Game Board
@@ -23,11 +23,11 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 
 ---
 
-##  Task 2 - Number Pattern Generator
+### Task 2 - Number Pattern Generator
 
 **Java Console Application**
 
-### Features
+#### Features
 
 - Multiple Number and Star Patterns
 - Number Triangle
@@ -40,26 +40,26 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 
 ---
 
-##  Task 3 - Task Manager System
+### Task 3 - Task Manager System
 
 **Java CRUD Console Application**
 
-### Features
+#### Features
 
 - Add New Tasks
 - View Task List
 - Update Existing Tasks
 - Delete Tasks
 - Menu-Driven System
-- ArrayList Based Task Management
+- ArrayList-Based Task Management
 
 ---
 
-##  Task 4 - Temperature Converter
+### Task 4 - Temperature Converter
 
 **Java Console Application**
 
-### Features
+#### Features
 
 - Celsius to Fahrenheit Conversion
 - Fahrenheit to Celsius Conversion
@@ -70,31 +70,67 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 
 ---
 
-##  Technologies Used
+### Task 5 - Task Manager with File I/O
+
+**Java Console Application**
+
+#### Features
+
+- Add New Tasks
+- View Task List
+- Update Existing Tasks
+- Delete Tasks
+- Automatic Task Saving
+- Automatic Task Loading
+- File Handling using BufferedReader & BufferedWriter
+- Persistent Data Storage
+- Menu-Driven Interface
+
+---
+
+## Technologies Used
 
 - Java
 - Visual Studio Code
 - Scanner Class
 - ArrayList
+- File I/O
+- BufferedReader
+- BufferedWriter
 - Git & GitHub
 
 ---
 
-##  Concepts Practiced
+## Concepts Practiced
 
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 - Methods
-- Loops & Nested Loops
+- Loops
 - Switch Case
 - Conditional Statements
 - Arrays & ArrayList
 - CRUD Operations
+- File Handling
+- Exception Handling
 - User Input Handling
 - Mathematical Calculations
 
 ---
 
-##  Author
+## Repository Structure
+
+```text
+Cognifyz-Software-Development-Internship
+│── Task1_TicTacToe
+│── Task2_NumberPattern
+│── Task3_TaskManager
+│── Task4_TemperatureConverter
+└── Task5_TaskManager_FileIO
+```
+
+---
+
+## Author
 
 **Priya Dayma**
 
@@ -104,9 +140,8 @@ Passionate about Java Development, Problem Solving, and Software Engineering.
 
 ---
 
-##  Upcoming Projects
+## Upcoming Projects
 
--  Task 5 – Task Manager with File I/O
--  Task 6 – Interactive Web Scraping
+- Task 6 – Interactive Web Scraping
 
- More projects will be added soon.
+More projects will be added soon.
