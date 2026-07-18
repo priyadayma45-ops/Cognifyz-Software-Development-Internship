@@ -94,6 +94,8 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 - Persistent Data Storage
 - Menu-Driven Interface
 
+ **Project Folder:** [Task5_TaskManager_FileIO](Task5_TaskManager_FileIO)
+
 ---
 
 ## Task 6 - Java Web Scraper
