@@ -74,6 +74,8 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 - Accurate Temperature Calculations
 - Exit Option
 
+ **Project Folder:** [Task4_TemperatureConverter](Task4_TemperatureConverter)
+ 
 ---
 
 ## Task 5 - Task Manager with File I/O
