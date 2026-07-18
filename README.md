@@ -40,6 +40,8 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 - Diamond Pattern
 - Butterfly Pattern
 
+**Project Folder:** [Task2_NumberPattern](Task2_NumberPattern)
+
 ---
 
 ## Task 3 - Task Manager System
