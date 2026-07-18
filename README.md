@@ -111,6 +111,8 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 - CSS Selector Based Data Extraction
 - Exception Handling
 
+**Project Folder:** [Task6_WebScraping](Task6_WebScraping)
+
 ---
 
 # Technologies Used
