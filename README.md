@@ -57,6 +57,8 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 - Menu-Driven System
 - ArrayList-Based Task Management
 
+**Project Folder:** [Task3_TaskManager](Task3_TaskManager)
+
 ---
 
 ## Task 4 - Temperature Converter
