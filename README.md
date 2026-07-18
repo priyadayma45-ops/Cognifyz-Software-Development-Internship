@@ -21,6 +21,8 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 - Input Validation
 - Prevents Invalid Moves
 
+ **Project Folder:** [Task1_TicTacToe](Task1_TicTacToe)
+
 ---
 
 ## Task 2 - Number Pattern Generator
