@@ -2,7 +2,7 @@
 
 This repository contains all Java projects completed during my **Software Development Internship** at **Cognifyz Technologies**.
 
-The projects focus on Java programming fundamentals, problem-solving, console-based applications, file handling, web scraping, and implementing logical concepts.
+The projects focus on Java programming fundamentals, problem-solving, console-based applications, file handling, web scraping, and implementing logical concepts
 
 ---
 
