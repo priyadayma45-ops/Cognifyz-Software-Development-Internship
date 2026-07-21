@@ -139,7 +139,7 @@ Through this project, I learned:
 
 B.Tech Computer Science Engineering
 
-Passionate about Java Development, Problem Solving, and Software Engineering.
+Passionate about Java Development, Problem Solving, and Software Engineering
 
 ---
 
