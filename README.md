@@ -7,6 +7,7 @@ The projects focus on Java programming fundamentals, problem-solving, console-ba
 ---
 
 # Projects
+This repository consists of six Java console-based projects completed during the internship, each focusing on different programming concepts and real-world problem-solving.
 
 ## Task 1 - Tic Tac Toe Game
 
