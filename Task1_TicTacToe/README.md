@@ -1,7 +1,7 @@
 #  Tic Tac Toe Game
 
-> **A simple, interactive, and fun console-based Tic Tac Toe game built with Java.**
-> Developed as part of the **Cognifyz Technologies Software Development Internship**.
+**A simple, interactive, and fun console-based Tic Tac Toe game built with Java.**
+ Developed as part of the **Cognifyz Technologies Software Development Internship**.
 
 ---
 
@@ -17,23 +17,23 @@ This project demonstrates the implementation of Java programming fundamentals th
 
 ##  Features
 
- Interactive Console-Based Gameplay
+ - Interactive Console-Based Gameplay
 
- Two Player Mode (X vs O)
+ - Two Player Mode (X vs O)
 
- Beautiful 3×3 Game Board
+ - Beautiful 3×3 Game Board
 
- Input Validation
+ - Input Validation
 
- Prevents Overwriting Existing Moves
+ - Prevents Overwriting Existing Moves
 
- Automatic Winner Detection
+ - Automatic Winner Detection
 
- Draw Detection
+ - Draw Detection
 
- Clean & Easy-to-Understand Code
+ - Clean & Easy-to-Understand Code
 
- Beginner Friendly Project
+ - Beginner Friendly Project
 
 ---
 
