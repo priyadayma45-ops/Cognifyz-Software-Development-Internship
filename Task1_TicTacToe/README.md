@@ -133,7 +133,7 @@ Through this project, I learned:
 
 ---
 
-##  Author
+##  Developer
 
 **Priya Dayma**
 
