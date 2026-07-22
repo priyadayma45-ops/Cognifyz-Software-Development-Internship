@@ -175,4 +175,12 @@ Passionate about **Java Development, Problem Solving, and Software Engineering.*
 
 ---
 
+## GitHub Repository
+
+Explore the complete source code, project documentation, and screenshots:
+
+**Repository:**  
+https://github.com/priyadayma45-ops/Cognifyz-Software-Development-Internship
+
+This repository showcases six Java projects developed during my Software Development Internship at Cognifyz Technologies, covering Java programming, OOP, CRUD operations, File Handling, and Web Scraping using Jsoup.
 
