@@ -1,4 +1,4 @@
-# Cognifyz Software Development Internshi
+# Cognifyz Software Development Internship
 
 This repository contains all Java projects completed during my **Software Development Internship** at **Cognifyz Technologies**.
 
